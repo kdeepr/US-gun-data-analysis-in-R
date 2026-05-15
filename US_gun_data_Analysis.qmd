@@ -1,6 +1,6 @@
 ---
 title: "Final Project STA 518"
-author: "Sai Sreyaa Krishna Mallemala, Kuladeep Roy G, Devendhar Sangraj"
+author: "Kuladeep Roy G"
 date: today
 format: 
   html:
@@ -910,24 +910,3 @@ leaflet(map_data) |>
   ) |>
   setView(lng = -98.5795, lat = 39.8283, zoom = 4)  # Center on the U.S.
 ```
-
-# 6. Contributions of each group member
-
-This project was a collaborative effort, and each team member contributed meaningfully to different stages of the analysis, visualizations, and interpretation.
-
-- *Kuladeep Roy G*
-  - Led the data cleaning and preprocessing of the gun violence dataset.
-  - Created the visualizations for total victims by state, the population vs. total victims scatterplot, and the bubble chart for killed/injured/incidents.
-  - Helped format the Quarto document and finalize the conclusions.
-
-- *Devendhar Sangraj*
-  - Focused on merging the gun violence data with census state-level data.
-  - Created the line plot of victims over time and the stacked bar chart comparing victims killed vs. injured.
-  - Worked on interpreting the merged dataset and summarizing key trends.
-
-- *Sai Sreyaa Krishna Mallemala*
-  - Designed and implemented the permutation test comparing high- and low-poverty states.
-  - Created the grouped bar chart for incident characteristics and the interactive Leaflet map.
-  - Wrote the hypothesis, statistical interpretation, and Monte Carlo inference explanation.
-
-All members contributed to group discussions, decision-making, and finalizing the main takeaways. The work was divided equitably and collaboratively to ensure the success of the project.
