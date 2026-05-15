@@ -82,16 +82,6 @@ that low-income states experience more severe gun violence incidents on average.
 
 ---
 
-## 📁 Repository Structure
-├── US_gun_data_Analysis.qmd   # Main Quarto analysis file
-├── gun_violence_geo.csv       # Primary dataset
-├── .github/
-│   └── workflows/
-│       └── render.yml         # Auto-render GitHub Actions workflow
-└── README.md
-
----
-
 ## ▶️ How to Run Locally
 ```r
 # Install required packages
