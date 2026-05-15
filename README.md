@@ -75,7 +75,7 @@ that low-income states experience more severe gun violence incidents on average.
 ---
 
 ## 🚀 Live Report
-👉 [View Full Interactive Report](https://kdeepr.github.io/US-gun-data-analysis-in-R/)
+👉 [View Full Interactive Report]([https://kdeepr.github.io/US-gun-data-analysis-in-R/](https://kdeepr.github.io/US-gun-data-analysis-in-R/US_gun_data_Analysis.html))
 
 ---
 
