@@ -1,6 +1,9 @@
 # US Gun Violence Data Analysis
 
----
+
+## 🗺️ Interactive Map Preview for GUN VOILENCE ACROSS US
+[![Interactive Map](map_preview.png)](https://kdeepr.github.io/US-gun-data-analysis-in-R/US_gun_data_Analysis.html#interactive-map-of-gun-violence-incidents)
+
 
 ## 📌 Overview
 A comprehensive statistical analysis of US gun violence incidents from 
@@ -75,17 +78,7 @@ that low-income states experience more severe gun violence incidents on average.
 ---
 
 ## 🚀 Live Report
-👉 [View Full Interactive Report](https://kdeepr.github.io/US-gun-data-analysis-in-R/)
-
----
-
-## 📁 Repository Structure
-├── US_gun_data_Analysis.qmd   # Main Quarto analysis file
-├── gun_violence_geo.csv       # Primary dataset
-├── .github/
-│   └── workflows/
-│       └── render.yml         # Auto-render GitHub Actions workflow
-└── README.md
+👉 [View Live Report](https://kdeepr.github.io/US-gun-data-analysis-in-R/US_gun_data_Analysis.html)
 
 ---
 
