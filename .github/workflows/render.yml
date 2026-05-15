@@ -28,7 +28,7 @@ jobs:
             "readr", "skimr", "gt", "dplyr", "tidyr",
             "ggplot2", "stringr", "scales", "circlize",
             "tidyverse", "flextable", "naniar", "lubridate",
-            "ggpubr", "magick", "ggrepel"
+            "ggpubr", "magick", "ggrepel" 
           ))
         shell: Rscript {0}
 
