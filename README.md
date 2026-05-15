@@ -2,7 +2,7 @@
 
 
 ## 🗺️ Interactive Map Preview for GUN VOILENCE ACROSS US
-[![Interactive Map](map_preview.png)](https://kdeepr.github.io/US-gun-data-analysis-in-R/US_gun_data_Analysis.html)
+[![Interactive Map](map_preview.png)](https://kdeepr.github.io/US-gun-data-analysis-in-R/US_gun_data_Analysis.html#interactive-map-of-gun-violence-incidents)
 
 
 ## 📌 Overview
